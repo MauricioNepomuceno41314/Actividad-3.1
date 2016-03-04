@@ -80,7 +80,13 @@ namespace Actividad3
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int layout1 = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int layout2 = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Main = 2130903042;
 			
 			static Layout()
 			{
@@ -116,6 +122,9 @@ namespace Actividad3
 			
 			// aapt resource value: 0x7f050000
 			public const int Mono_Android_Theme_Splash = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int Theme_Custom = 2131034113;
 			
 			static Style()
 			{

@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace Actividad3
 {
-    [Activity(Label = "Actividad3", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Actividad 3", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
